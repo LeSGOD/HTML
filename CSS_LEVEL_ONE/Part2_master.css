@@ -1,0 +1,19 @@
+body{
+  background: url(https://pix10.agoda.net/hotelImages/301716/-1/fe9724d8fb4da3dd4590353bd771a276.jpg?s=1024x768);
+  background-repeat: no-repeat;
+}
+
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: 4px;
+  border-style: double;
+}
+p{
+  color: yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}
